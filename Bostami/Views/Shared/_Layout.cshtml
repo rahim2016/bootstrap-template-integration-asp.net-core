@@ -1,0 +1,74 @@
+﻿<!Doctype html>
+<html class="no-js" lang="zxx">
+
+
+<!-- Mirrored from bostami-bootstrap.ibthemespro.com/bostami-template/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 30 Aug 2024 16:15:37 GMT -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Bostami - Home Page One</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/x-icon" href="~/assets/img/favicon.png">
+    <!-- Place favicon.ico in the root directory -->
+    <!-- CSS here -->
+    <link rel="stylesheet" href="~/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/assets/css/animate.min.css">
+    <link rel="stylesheet" href="~/assets/css/fontawesome.min.css">
+    <link rel="stylesheet" href="~/assets/css/all.min.css">
+    <link rel="stylesheet" href="~/assets/css/odometer.min.css">
+    @*     <link rel="stylesheet" href="~/assets/css/jquery.modal.min.css"> *@
+    <link rel="stylesheet" href="~/assets/css/meanmenu.css">
+    <link rel="stylesheet" href="~/assets/css/swipper.css">
+    <link rel="stylesheet" href="~/assets/css/main.css">
+
+    <script src="~/assets/jquery.js"></script>
+</head>
+
+<body>
+    <div class="page-wrapper home-1" data-background="/assets/img/bg/page-bg-1.jpg">
+
+        <!-- PRELOADER -->
+        <div id="preloader">
+            <div class="loader_line"></div>
+        </div>
+        <!-- /PRELOADER -->
+        <!-- header-start -->
+        @await Html.PartialAsync("_Header")
+        <!-- header-end -->
+
+        <div class="container z-index-3">
+            <div class="row">
+
+                <!-- parsonal-info-start -->
+                @await Html.PartialAsync("_Sider")
+                <!-- personal-info-end -->
+
+                <div class="col-xxl-8 col-xl-9">
+                    @RenderBody()
+                </div>
+
+                <!-- main-menu-start -->
+                @await Html.PartialAsync("_Menu")
+                <!-- main-menu-end -->
+            </div>
+        </div>
+
+
+    </div>
+
+    <!-- JS here -->
+    <script src="~/assets/js/jquery.min.js"></script>
+    <script src="~/assets/js/bootstrap.bundle.min.js"></script>
+    <script src="~/assets/js/swipper-bundle.min.js"></script>
+    <script src="~/assets/js/jquery.meanmenu.min.js"></script>
+    <script src="~/assets/js/wow.min.js"></script>
+    <script src="~/assets/js/isotope.pkgd.min.js"></script>
+    <script src="~/assets/js/odometer.min.js"></script>
+    <script src="~/assets/js/jquery.modal.min.js"></script>
+    <script src="~/assets/js/appear.min.js"></script>
+    <script src="~/assets/js/main.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,110 @@
+﻿<div class="col-xxl-3 col-xl-3">
+    <div class="bostami-parsonal-info-area">
+        <div class="bostami-parsonal-info-wrap">
+
+            <!-- img -->
+            <div class="bostami-parsonal-info-img">
+                <img src="~/assets/img/parsonal-info/parson-img-1.png" alt="avatar">
+            </div>
+
+            <!-- name -->
+            <h4 class="bostami-parsonal-info-name">
+                <a class="user-profile" asp-controller="Home" asp-action="Index">Bostami Hassan</a>
+            </h4>
+            <span class="bostami-parsonal-info-bio mb-15">Ui/Ux Designer</span>
+
+            <!-- socail link -->
+            <ul class="bostami-parsonal-info-social-link mb-30">
+                <li>
+                    <a href="#" class="facebook">
+                        <i class="fa-brands fa-facebook-f"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" class="twitter">
+                        <i class="fa-brands fa-twitter"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" class="instagram">
+                        <i class="fa-brands fa-instagram"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" class="linkedin">
+                        <i class="fa-brands fa-linkedin-in"></i>
+                    </a>
+                </li>
+            </ul>
+
+            <!-- contact -->
+            <div class="bostami-parsonal-info-contact mb-30">
+                <div class="bostami-parsonal-info-contact-item phone">
+                    <div class="icon">
+                        <i class="fa-solid fa-mobile-screen-button"></i>
+                    </div>
+                    <div class="text">
+                        <span>Phone</span>
+                        <p>+123 456 7890</p>
+                    </div>
+                </div>
+
+
+                <div class="bostami-parsonal-info-contact-item email">
+                    <div class="icon">
+                        <i class="fa-regular fa-envelope-open-text"></i>
+                    </div>
+                    <div class="text">
+                        <span>Email</span>
+                        <p>example@mail.com</p>
+                    </div>
+                </div>
+
+                <div class="bostami-parsonal-info-contact-item location">
+                    <div class="icon">
+                        <i class="fa-solid fa-location-dot"></i>
+                    </div>
+                    <div class="text">
+                        <span>Location</span>
+                        <p>Hong kong china</p>
+                    </div>
+                </div>
+
+                <div class="bostami-parsonal-info-contact-item calendar">
+                    <div class="icon">
+                        <i class="fa-light fa-calendar-days"></i>
+                    </div>
+                    <div class="text">
+                        <span>Birthday</span>
+                        <p>May 27, 1990</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- cv button -->
+            <div class="bostami-parsonal-info-btn">
+                <a class="btn-1" href="#">
+                    <span class="icon">
+                        <i class="fa-regular fa-download"></i>
+                    </span>
+                    download cv
+                </a>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        $('.user-profile').click(function () {
+
+            // save cliked item
+            sessionStorage.setItem("status", "active");
+            sessionStorage.setItem("elementId", "About")
+
+            $('.menu-item').removeClass('active');
+            $("#About").addClass('active');
+        });
+    });
+</script>

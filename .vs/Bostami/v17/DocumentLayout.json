@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RAHIM\\Projects\\ASP\\dotnet_core\\Bostami\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{533F2E6E-C785-4887-B4B2-987FCBBE04F8}|Bostami\\Bostami.csproj|c:\\users\\rahim\\projects\\asp\\dotnet_core\\bostami\\bostami\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{533F2E6E-C785-4887-B4B2-987FCBBE04F8}|Bostami\\Bostami.csproj|solutionrelative:bostami\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F2E6E-C785-4887-B4B2-987FCBBE04F8}|Bostami\\Bostami.csproj|c:\\users\\rahim\\projects\\asp\\dotnet_core\\bostami\\bostami\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{533F2E6E-C785-4887-B4B2-987FCBBE04F8}|Bostami\\Bostami.csproj|solutionrelative:bostami\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F2E6E-C785-4887-B4B2-987FCBBE04F8}|Bostami\\Bostami.csproj|c:\\users\\rahim\\projects\\asp\\dotnet_core\\bostami\\bostami\\views\\shared\\_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{533F2E6E-C785-4887-B4B2-987FCBBE04F8}|Bostami\\Bostami.csproj|solutionrelative:bostami\\views\\shared\\_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F2E6E-C785-4887-B4B2-987FCBBE04F8}|Bostami\\Bostami.csproj|c:\\users\\rahim\\projects\\asp\\dotnet_core\\bostami\\bostami\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533F2E6E-C785-4887-B4B2-987FCBBE04F8}|Bostami\\Bostami.csproj|solutionrelative:bostami\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F2E6E-C785-4887-B4B2-987FCBBE04F8}|Bostami\\Bostami.csproj|c:\\users\\rahim\\projects\\asp\\dotnet_core\\bostami\\bostami\\views\\home\\work.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{533F2E6E-C785-4887-B4B2-987FCBBE04F8}|Bostami\\Bostami.csproj|solutionrelative:bostami\\views\\home\\work.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F2E6E-C785-4887-B4B2-987FCBBE04F8}|Bostami\\Bostami.csproj|c:\\users\\rahim\\projects\\asp\\dotnet_core\\bostami\\bostami\\views\\shared\\_workmodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{533F2E6E-C785-4887-B4B2-987FCBBE04F8}|Bostami\\Bostami.csproj|solutionrelative:bostami\\views\\shared\\_workmodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F2E6E-C785-4887-B4B2-987FCBBE04F8}|Bostami\\Bostami.csproj|c:\\users\\rahim\\projects\\asp\\dotnet_core\\bostami\\bostami\\views\\shared\\_blogmodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{533F2E6E-C785-4887-B4B2-987FCBBE04F8}|Bostami\\Bostami.csproj|solutionrelative:bostami\\views\\shared\\_blogmodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F2E6E-C785-4887-B4B2-987FCBBE04F8}|Bostami\\Bostami.csproj|c:\\users\\rahim\\projects\\asp\\dotnet_core\\bostami\\bostami\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{533F2E6E-C785-4887-B4B2-987FCBBE04F8}|Bostami\\Bostami.csproj|solutionrelative:bostami\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F2E6E-C785-4887-B4B2-987FCBBE04F8}|Bostami\\Bostami.csproj|c:\\users\\rahim\\projects\\asp\\dotnet_core\\bostami\\bostami\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533F2E6E-C785-4887-B4B2-987FCBBE04F8}|Bostami\\Bostami.csproj|solutionrelative:bostami\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F2E6E-C785-4887-B4B2-987FCBBE04F8}|Bostami\\Bostami.csproj|c:\\users\\rahim\\projects\\asp\\dotnet_core\\bostami\\bostami\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{533F2E6E-C785-4887-B4B2-987FCBBE04F8}|Bostami\\Bostami.csproj|solutionrelative:bostami\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F2E6E-C785-4887-B4B2-987FCBBE04F8}|Bostami\\Bostami.csproj|c:\\users\\rahim\\projects\\asp\\dotnet_core\\bostami\\bostami\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{533F2E6E-C785-4887-B4B2-987FCBBE04F8}|Bostami\\Bostami.csproj|solutionrelative:bostami\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F2E6E-C785-4887-B4B2-987FCBBE04F8}|Bostami\\Bostami.csproj|c:\\users\\rahim\\projects\\asp\\dotnet_core\\bostami\\bostami\\views\\shared\\_about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{533F2E6E-C785-4887-B4B2-987FCBBE04F8}|Bostami\\Bostami.csproj|solutionrelative:bostami\\views\\shared\\_about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F2E6E-C785-4887-B4B2-987FCBBE04F8}|Bostami\\Bostami.csproj|c:\\users\\rahim\\projects\\asp\\dotnet_core\\bostami\\bostami\\views\\shared\\_sider.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{533F2E6E-C785-4887-B4B2-987FCBBE04F8}|Bostami\\Bostami.csproj|solutionrelative:bostami\\views\\shared\\_sider.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1449176975:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAHIM\\Projects\\ASP\\dotnet_core\\Bostami\\Bostami\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bostami\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\RAHIM\\Projects\\ASP\\dotnet_core\\Bostami\\Bostami\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Bostami\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T06:59:34.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\RAHIM\\Projects\\ASP\\dotnet_core\\Bostami\\Bostami\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Bostami\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\RAHIM\\Projects\\ASP\\dotnet_core\\Bostami\\Bostami\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Bostami\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T01:03:03.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Work.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAHIM\\Projects\\ASP\\dotnet_core\\Bostami\\Bostami\\Views\\Home\\Work.cshtml",
+              "RelativeDocumentMoniker": "Bostami\\Views\\Home\\Work.cshtml",
+              "ToolTip": "C:\\Users\\RAHIM\\Projects\\ASP\\dotnet_core\\Bostami\\Bostami\\Views\\Home\\Work.cshtml",
+              "RelativeToolTip": "Bostami\\Views\\Home\\Work.cshtml",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAIgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T00:53:26.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_WorkModal.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAHIM\\Projects\\ASP\\dotnet_core\\Bostami\\Bostami\\Views\\Shared\\_WorkModal.cshtml",
+              "RelativeDocumentMoniker": "Bostami\\Views\\Shared\\_WorkModal.cshtml",
+              "ToolTip": "C:\\Users\\RAHIM\\Projects\\ASP\\dotnet_core\\Bostami\\Bostami\\Views\\Shared\\_WorkModal.cshtml",
+              "RelativeToolTip": "Bostami\\Views\\Shared\\_WorkModal.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T00:53:05.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_BlogModal.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAHIM\\Projects\\ASP\\dotnet_core\\Bostami\\Bostami\\Views\\Shared\\_BlogModal.cshtml",
+              "RelativeDocumentMoniker": "Bostami\\Views\\Shared\\_BlogModal.cshtml",
+              "ToolTip": "C:\\Users\\RAHIM\\Projects\\ASP\\dotnet_core\\Bostami\\Bostami\\Views\\Shared\\_BlogModal.cshtml",
+              "RelativeToolTip": "Bostami\\Views\\Shared\\_BlogModal.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T00:12:47.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Blog.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAHIM\\Projects\\ASP\\dotnet_core\\Bostami\\Bostami\\Views\\Home\\Blog.cshtml",
+              "RelativeDocumentMoniker": "Bostami\\Views\\Home\\Blog.cshtml",
+              "ToolTip": "C:\\Users\\RAHIM\\Projects\\ASP\\dotnet_core\\Bostami\\Bostami\\Views\\Home\\Blog.cshtml",
+              "RelativeToolTip": "Bostami\\Views\\Home\\Blog.cshtml",
+              "ViewState": "AQIAABoBAAAAAAAAAAAQwCsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T00:01:28.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Menu.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAHIM\\Projects\\ASP\\dotnet_core\\Bostami\\Bostami\\Views\\Shared\\_Menu.cshtml",
+              "RelativeDocumentMoniker": "Bostami\\Views\\Shared\\_Menu.cshtml",
+              "ToolTip": "C:\\Users\\RAHIM\\Projects\\ASP\\dotnet_core\\Bostami\\Bostami\\Views\\Shared\\_Menu.cshtml",
+              "RelativeToolTip": "Bostami\\Views\\Shared\\_Menu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T19:23:03.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAHIM\\Projects\\ASP\\dotnet_core\\Bostami\\Bostami\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Bostami\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\RAHIM\\Projects\\ASP\\dotnet_core\\Bostami\\Bostami\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Bostami\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T18:28:16.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RAHIM\\Projects\\ASP\\dotnet_core\\Bostami\\Bostami\\Program.cs",
+              "RelativeDocumentMoniker": "Bostami\\Program.cs",
+              "ToolTip": "C:\\Users\\RAHIM\\Projects\\ASP\\dotnet_core\\Bostami\\Bostami\\Program.cs",
+              "RelativeToolTip": "Bostami\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T18:21:31.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAHIM\\Projects\\ASP\\dotnet_core\\Bostami\\Bostami\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Bostami\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\RAHIM\\Projects\\ASP\\dotnet_core\\Bostami\\Bostami\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Bostami\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T01:03:45.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\RAHIM\\Projects\\ASP\\dotnet_core\\Bostami\\Bostami\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Bostami\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\RAHIM\\Projects\\ASP\\dotnet_core\\Bostami\\Bostami\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Bostami\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-30T18:21:49.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_About.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAHIM\\Projects\\ASP\\dotnet_core\\Bostami\\Bostami\\Views\\Shared\\_About.cshtml",
+              "RelativeDocumentMoniker": "Bostami\\Views\\Shared\\_About.cshtml",
+              "ToolTip": "C:\\Users\\RAHIM\\Projects\\ASP\\dotnet_core\\Bostami\\Bostami\\Views\\Shared\\_About.cshtml",
+              "RelativeToolTip": "Bostami\\Views\\Shared\\_About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T01:03:53.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Sider.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAHIM\\Projects\\ASP\\dotnet_core\\Bostami\\Bostami\\Views\\Shared\\_Sider.cshtml",
+              "RelativeDocumentMoniker": "Bostami\\Views\\Shared\\_Sider.cshtml",
+              "ToolTip": "C:\\Users\\RAHIM\\Projects\\ASP\\dotnet_core\\Bostami\\Bostami\\Views\\Shared\\_Sider.cshtml",
+              "RelativeToolTip": "Bostami\\Views\\Shared\\_Sider.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T01:12:24.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

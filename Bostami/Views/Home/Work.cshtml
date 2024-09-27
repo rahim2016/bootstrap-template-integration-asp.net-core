@@ -1,0 +1,137 @@
+﻿<div class="bostami-page-content-wrap">
+
+    <!-- page title -->
+    <div class="section-wrapper pl-60 pr-60 pt-60">
+        <div class="bostami-page-title-wrap mb-15">
+            <h2 class="page-title">Portfolio</h2>
+        </div>
+    </div>
+
+
+    <div class="section-wrapper pr-60 pl-60 mb-60">
+        <div class="row">
+
+            <div class="col-12">
+                <ul class="fillter-btn-wrap buttonGroup isotop-menu-wrapper mb-30">
+                    <li class="fillter-btn is-checked " data-filter="*">All</li>
+                    <li class="fillter-btn" data-filter=".mockup">Mockup</li>
+                    <li class="fillter-btn" data-filter=".design"> Graphic Design</li>
+                    <li class="fillter-btn" data-filter=".logo"> logo</li>
+                </ul>
+            </div>
+
+            <div class="col-12">
+                <div id="fillter-item-active" class="fillter-item-wrap">
+                    <div class="grid-sizer"></div>
+
+                    <!-- signle item -->
+                    <div class=" isotop-item  logo">
+                        <div class="fillter-item bg-prink">
+                            <a class="img" href="#" data-bs-toggle="modal"
+                               data-bs-target="#portfolio-1">
+                                <img src="~/assets/img/work/work-img-1.png" alt="">
+                            </a>
+                            <span class="item-subtitle">Travel Landing , UX/UI </span>
+                            <h6 class="item-title">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#portfolio-1">
+                                    Chul
+                                    urina
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+
+                    <!-- signle item -->
+                    <div class=" isotop-item design mockup">
+                        <div class="fillter-item bg-catkrill">
+                            <a class="img" href="#" data-bs-toggle="modal"
+                               data-bs-target="#portfolio-1">
+                                <img src="~/assets/img/work/work-img-2.png" alt="">
+                            </a>
+                            <span class="item-subtitle">Travel Landing , UX/UI </span>
+                            <h6 class="item-title">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#portfolio-1">
+                                    Aura
+                                    Dione
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+
+                    <!-- signle item -->
+                    <div class=" isotop-item logo mockup">
+                        <div class="fillter-item bg-catkrill ">
+                            <a class="img" href="#" data-bs-toggle="modal"
+                               data-bs-target="#portfolio-1">
+                                <img src="~/assets/img/work/work-img-3.png" alt="">
+                            </a>
+                            <span class="item-subtitle">Travel Landing , UX/UI </span>
+                            <h6 class="item-title">
+                                <a href="#" data-bs-toggle="modal"
+                                   data-bs-target="#portfolio-1">T-Shirt Design</a>
+                            </h6>
+                        </div>
+                    </div>
+
+                    <!-- signle item -->
+                    <div class=" isotop-item mockup">
+                        <div class="fillter-item bg-prink">
+                            <a class="img" href="#" data-bs-toggle="modal"
+                               data-bs-target="#portfolio-1">
+                                <img src="~/assets/img/work/work-img-4.png" alt="">
+                            </a>
+                            <span class="item-subtitle">Travel Landing , UX/UI </span>
+                            <h6 class="item-title">
+                                <a href="#" data-bs-toggle="modal"
+                                   data-bs-target="#portfolio-1">Packaging Box</a>
+                            </h6>
+                        </div>
+                    </div>
+
+                    <!-- signle item -->
+                    <div class="isotop-item design logo">
+                        <div class="fillter-item bg-prink">
+                            <a class="img" href="#" data-bs-toggle="modal"
+                               data-bs-target="#portfolio-1">
+                                <img src="~/assets/img/work/work-img-5.png" alt="">
+                            </a>
+                            <span class="item-subtitle">Travel Landing , UX/UI </span>
+                            <h6 class="item-title">
+                                <a href="#" data-bs-toggle="modal"
+                                   data-bs-target="#portfolio-1">Modern Bag Design</a>
+                            </h6>
+                        </div>
+                    </div>
+
+                    <!-- signle item -->
+                    <div class="isotop-item mockup design">
+                        <div class="fillter-item bg-catkrill">
+                            <a class="img" href="#" data-bs-toggle="modal"
+                               data-bs-target="#portfolio-1">
+                                <img src="~/assets/img/work/work-img-6.png" alt="">
+                            </a>
+                            <span class="item-subtitle">Travel Landing , UX/UI </span>
+                            <h6 class="item-title">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#portfolio-1">
+                                    Chul
+                                    urina
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+    <!-- footer copyright -->
+    @await Html.PartialAsync("_Footer")
+
+</div>
+
+<!-- portfolio-modal-start -->
+@await Html.PartialAsync("_WorkModal")
+<!-- portfolio-modal-end -->
